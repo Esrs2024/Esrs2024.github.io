@@ -177,7 +177,7 @@
           ]
         },
         historia2: {
-          title: 'Historia 2',
+          title: 'Badkamer – Witte metrotegels en ronde spiegel',
           photos: [
             { src:'images/img-002.jpg', alt:'Afgewerkte dubbele wastafel met witte metrotegels en een grote ronde spiegel met achtergrondverlichting', cap:'Na – de dubbele wastafel, afgewerkt met ronde spiegel' },
             { src:'images/img-142.jpg', alt:'Het badmeubel met eiken laden en wit werkblad met dubbele wastafel geplaatst, de aansluitingen nog open in de wand', cap:'Tijdens – het meubel geplaatst, de aansluitingen nog open' },
@@ -190,7 +190,7 @@
           ]
         },
         historia3: {
-          title: 'Historia 3 — Bar',
+          title: 'Bar – Beige tegels',
           photos: [
             { src:'images/img-005.jpg', alt:'Afgewerkte bar met zwarte kasten, ingebouwde koelkast met glazen deur, stenen werkblad en verlichte planken met glazen', cap:'Na – de bar, afgewerkt met verlichte planken en ingebouwde koelkast' },
             { src:'images/img-149.jpg', alt:'Detail van de gebogen zijkant van de bar in beige verticale tegels, met de spoelbak in het stenen werkblad en de koelkast eronder', cap:'Tijdens – de gebogen hoek in beige tegels, de spoelbak in het blad' },
@@ -201,7 +201,7 @@
           ]
         },
         historia4: {
-          title: 'Historia 4 — Suelo damero',
+          title: 'Vloer – Zwart-wit damboard',
           photos: [
             { src:'images/img-013.jpg', alt:'Afgewerkte gangvloer in zwart-wit damboardpatroon met een sierlijke rand van kleine ruiten, met witte radiator aan de wand', cap:'Na – de damboardvloer in de gang, afgewerkt met de sierlijke rand' },
             { src:'images/img-154.jpg', alt:'Dozen met de zwart-witte Victoriaanse tegels voor het damboardpatroon, met de tegellijm ernaast op de werkvloer', cap:'Voor – het materiaal ligt klaar: de tegels voor het patroon' },
@@ -225,7 +225,7 @@
           ]
         },
         historia5: {
-          title: 'Historia 5 — Baño mármol negro',
+          title: 'Badkamer – Zwart marmer met goud',
           photos: [
             { src:'images/img-003.jpg', alt:'Afgewerkte badkamer in zwart marmer met zwarte wastafelkom, gouden wandkraan, eiken lattenwand en hangtoilet', cap:'Na – de wastafel in zwart marmer, met gouden kraan en eiken latten' },
             { src:'images/img-172.jpg', alt:'De opengebroken badkamervloer tijdens de sloop, met een hoop puin en de sleuf voor de afvoer', cap:'Voor – de vloer opengebroken, de sleuf voor de afvoer gegraven' },
@@ -251,7 +251,7 @@
           ]
         },
         historia6: {
-          title: 'Historia 6',
+          title: 'Badkamer – Whirlpoolbad',
           photos: [
             { src:'images/img-014.jpg', alt:'Whirlpoolbad van boven gezien, rondom betegeld met grootformaat grijze tegels, met chromen badrandkranen en handdouche', cap:'Na – het whirlpoolbad, rondom betegeld in grootformaat grijs' },
             { src:'images/img-192.jpg', alt:'De doorgang naar de badkamer tijdens de verbouwing, met de vloer afgedekt met platen en blauwe tape langs de randen', cap:'Tijdens – de doorgang beschermd, de vloer afgedekt' },
@@ -287,7 +287,7 @@
           ]
         },
         historia7: {
-          title: 'Historia 7',
+          title: 'Vloer – Marmerlook diagonaal',
           photos: [
             { src:'images/img-015.jpg', alt:'Afgewerkte keukenvloer in grootformaat tegels in marmerlook, diagonaal gelegd tussen de witte keukenkasten', cap:'Na – de keukenvloer, diagonaal gelegd in marmerlook' },
             { src:'images/img-222.jpg', alt:'Grootformaat vloertegels tijdens het leggen in de lijm, met rode nivelleerclips en kruisjes in de voegen', cap:'Tijdens – de tegels worden in de lijm gelegd en genivelleerd' },
